@@ -66,7 +66,7 @@ Remove from Selection	:kbd:`⌘` + :kbd:`⇧` + Right Mouse Button + :kbd:`⇧`
 =====================	=======================================
 
 
-Using the Keyboard
+Moving Lines Around with the Keyboard
 ------------------
 
 =====================	=============================================
